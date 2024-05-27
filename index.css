@@ -22,7 +22,7 @@
       .header_part a {
         padding-right: 2%;
         text-decoration: none;
-        color: black;
+        color: rgb(65, 150, 179);
       }
 
 /* navbar_items */
@@ -36,7 +36,7 @@
       .main {
         display: flex;
         justify-content: center;
-        margin-top: 18%;
+        margin-top: 19%;
       }
 
 /* styling for content icons */
@@ -72,7 +72,7 @@
 
       /* content para-2 */
       .para_1 {
-        margin-left: 25%;
+        margin-left: 27%;
         margin-top: 3%;
         font-family: 'Times New Roman', Times, serif;
         
@@ -207,5 +207,6 @@
         }
         .cen {
           margin-left: 5%;
+          margin-right: 1%;
         }
       }
